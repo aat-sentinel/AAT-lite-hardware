@@ -1,2 +1,2 @@
 # AAT-lite-hardware
-STL and source CAD (ggogle sketchup skp) for AAT Sentinel lite antenna tracker
+STL and source CAD (google sketchup .skp) for AAT Sentinel lite antenna tracker
