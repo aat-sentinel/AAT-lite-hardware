@@ -1,0 +1,86 @@
+solid Eachine Pro58 mount insert
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 35.5 23.5 0.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 23.5 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 35.5 23.5 0.0
+    vertex 35.5 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 35.5 0.0 3.0
+    vertex 0.0 23.5 3.0
+    vertex 0.0 0.0 3.0
+  endloop
+endfacet
+facet normal -0.0 -0.0 1.0
+  outer loop
+    vertex 0.0 23.5 3.0
+    vertex 35.5 0.0 3.0
+    vertex 35.5 23.5 3.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 35.5 0.0 3.0
+    vertex 0.0 0.0 0.0
+    vertex 35.5 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 35.5 0.0 3.0
+    vertex 0.0 0.0 3.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 23.5 3.0
+    vertex 0.0 0.0 0.0
+    vertex 0.0 0.0 3.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 0.0 0.0 0.0
+    vertex 0.0 23.5 3.0
+    vertex 0.0 23.5 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 0.0 23.5 3.0
+    vertex 35.5 23.5 0.0
+    vertex 0.0 23.5 0.0
+  endloop
+endfacet
+facet normal -0.0 1.0 0.0
+  outer loop
+    vertex 35.5 23.5 0.0
+    vertex 0.0 23.5 3.0
+    vertex 35.5 23.5 3.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 35.5 23.5 0.0
+    vertex 35.5 0.0 3.0
+    vertex 35.5 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 35.5 0.0 3.0
+    vertex 35.5 23.5 0.0
+    vertex 35.5 23.5 3.0
+  endloop
+endfacet
+endsolid Eachine Pro58 mount insert
